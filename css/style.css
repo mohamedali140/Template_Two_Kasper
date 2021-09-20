@@ -805,6 +805,7 @@ text-align: center;
 .pricing .container .contact-link{
     display: block;
     width: fit-content;
+    width: -moz-fit-content;
     margin: 20px auto;
     padding: 15px 20px;
     color: white;
